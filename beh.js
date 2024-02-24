@@ -31,5 +31,3 @@ function display(ind){
     else if (ind == 6) image.src = "nancy.jpg";
     else if (ind == 7) image.src = "eleven.jpg";
 }
-
-
